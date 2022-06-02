@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sayemk
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning AWS
